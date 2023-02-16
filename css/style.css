@@ -1,0 +1,15 @@
+/*author:akhila*/
+/* Date: */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.contain{
+    width: 80%;
+    height: fit-content;
+    background-color:#f1f6f5;
+}
+.img:hover{
+    transform: scale(2.5);
+}
